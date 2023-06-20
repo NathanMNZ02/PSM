@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCurrency</string>
+    <string name="exchange_btn_content">Exchange</string>
+</resources>
